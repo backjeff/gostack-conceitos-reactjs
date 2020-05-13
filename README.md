@@ -2,7 +2,7 @@
 
 ## :rocket: About
 
-ReactJS project that hadle repositories. It can create, list and delete repositories from API
+ReactJS project that handle repositories. It can create, list and delete repositories from API
 
 Its based on a Rocketseat template: **[Access template](https://github.com/Rocketseat/gostack-template-conceitos-reactjs)**
 
